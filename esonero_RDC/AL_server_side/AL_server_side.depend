@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1732472179 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_server_side\main.c
+	"TCP_protocol.h"
+	"password_generation.h"
+	<winsock.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1732472041 c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_server_side\tcp_protocol.h
+
+1732472326 c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_server_side\password_generation.h
+
+1732471180 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_server_side\password_generation.c
+	"password_generation.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1732472179 source:c:\users\pc\onedrive\desktop\esonero_rdc\al_server_side\main.c
+	"TCP_protocol.h"
+	"password_generation.h"
+	<winsock.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1732472041 c:\users\pc\onedrive\desktop\esonero_rdc\al_server_side\tcp_protocol.h
+
+1732472326 c:\users\pc\onedrive\desktop\esonero_rdc\al_server_side\password_generation.h
+
+1732472272 source:c:\users\pc\onedrive\desktop\esonero_rdc\al_server_side\password_generation.c
+	"password_generation.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

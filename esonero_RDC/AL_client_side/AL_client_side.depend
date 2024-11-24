@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1732468852 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_client_side\checks.c
+	"checks.h"
+
+1732445781 source:c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_client_side\main.c
+	"TCP_protocol.h"
+	"checks.h"
+	<winsock.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1732466414 c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_client_side\tcp_protocol.h
+
+1732469307 c:\users\pc\onedrive\desktop\progetti\codeblocks\lab_exams\al_client_side\checks.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1732468852 source:c:\users\pc\onedrive\desktop\esonero_rdc\al_client_side\checks.c
+	"checks.h"
+
+1732469307 c:\users\pc\onedrive\desktop\esonero_rdc\al_client_side\checks.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1732470383 source:c:\users\pc\onedrive\desktop\esonero_rdc\al_client_side\main.c
+	"TCP_protocol.h"
+	"checks.h"
+	<winsock.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1732472706 c:\users\pc\onedrive\desktop\esonero_rdc\al_client_side\tcp_protocol.h
+
